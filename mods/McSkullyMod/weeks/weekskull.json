@@ -1,0 +1,54 @@
+{
+	"songs": [
+		[
+			"rattle-battle",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"slime",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"perfection",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"squad",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "the break in",
+	"weekName": "deadbeat-battle",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey~"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Can i crush your balls?"
+		},
+		{
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "\\nY            E            A             H\\n"
+		}
+	]
+}
